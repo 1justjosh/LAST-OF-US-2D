@@ -6,7 +6,7 @@ setup(
     packages=['pygame'],
     url='None',
     license='None',
-    author='joshua crompton',
+    author='',
     author_email='None',
     description='a last of us clone in  2d'
 )
